@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "The Journey Within",
+      "author": "John Doe",
+      "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+      "imageAlt": "Cover of 'The Journey Within'",
+      "tags": ["fiction", "adventure", "inspiration"],
+      "href": "#"
+    },
+    {
+        "id": 2,
+        "title": "The Journey Within",
+        "author": "John Doe",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+        "imageAlt": "Cover of 'The Journey Within'",
+        "tags": ["fiction", "adventure", "inspiration"],
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "title": "The Journey Within",
+        "author": "John Doe",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+        "imageAlt": "Cover of 'The Journey Within'",
+        "tags": ["fiction", "adventure", "inspiration"],
+        "href": "#"
+      },{
+        "id": 4,
+        "title": "The Journey Within",
+        "author": "John Doe",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+        "imageAlt": "Cover of 'The Journey Within'",
+        "tags": ["fiction", "adventure", "inspiration"],
+        "href": "#"
+      },
+      {
+        "id": 5,
+        "title": "The Journey Within",
+        "author": "John Doe",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+        "imageAlt": "Cover of 'The Journey Within'",
+        "tags": ["fiction", "adventure", "inspiration"],
+        "href": "#"
+      },
+      {
+        "id": 6,
+        "title": "The Journey Within",
+        "author": "John Doe",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+        "imageAlt": "Cover of 'The Journey Within'",
+        "tags": ["fiction", "adventure", "inspiration"],
+        "href": "#"
+      },
+      {
+        "id": 7,
+        "title": "The Journey Within",
+        "author": "John Doe",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+        "imageAlt": "Cover of 'The Journey Within'",
+        "tags": ["fiction", "adventure", "inspiration"],
+        "href": "#"
+      },
+      {
+        "id": 8,
+        "title": "The Journey Within",
+        "author": "John Doe",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+        "imageAlt": "Cover of 'The Journey Within'",
+        "tags": ["fiction", "romance", "drama"],
+        "href": "#"
+      }
+  ]
